@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9B191F0F-8548-49BA-823D-5257F9CCA967}|Default">
+  <MonoDevelop.Ide.ItemProperties.Pastebin__Scraper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pastebin_Scraper/ColorHelper.cs">
+    <Files>
+      <File FileName="Pastebin_Scraper/ColorHelper.cs" Line="3" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

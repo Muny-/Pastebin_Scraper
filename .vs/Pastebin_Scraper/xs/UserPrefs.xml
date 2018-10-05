@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{9B191F0F-8548-49BA-823D-5257F9CCA967}|Default">
+  <MonoDevelop.Ide.ItemProperties.Pastebin__Scraper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pastebin_Scraper/PasteTypes/PasteTypeM3U.cs">
+    <Files>
+      <File FileName="Pastebin_Scraper/Program.cs" Line="13" Column="31" />
+      <File FileName="Pastebin_Scraper/PasteTypes/PasteTypeM3U.cs" Line="24" Column="18" />
+      <File FileName="Pastebin_Scraper/ScrapedPaste.cs" Line="91" Column="97" />
+      <File FileName="Pastebin_Scraper/MainWindow.cs" Line="32" Column="61" />
+      <File FileName="Pastebin_Scraper/PasteTypes/IPasteType.cs" Line="13" Column="29" />
+      <File FileName="Pastebin_Scraper/ColorHelper.cs" Line="4" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
